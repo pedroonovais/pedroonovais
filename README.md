@@ -4,7 +4,7 @@
 </div>
 <div>
   <a href="https://github.com/pedroonovais">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedroonovais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedroonovais&show_icons=true&theme=defaut&include_all_commits=true&count_private=true"/>
 </div>
   
 ## Tecnologias do meu dia a dia
