@@ -6,15 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<!--<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning python</p>--->
-
-###
-
-<h2 align="left">I code with</h2>
+<h1 align="left">Technologies:</h1>
 
 ###
 
