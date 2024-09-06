@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a student.</p>
+<p align="left">🤙 Hi, I’m Pedro Novais, a software developer passionate about creating efficient and elegant solutions. I have experience with Python, TypeScript, and PHP, and I’m constantly looking for ways to enhance my skills and expand my knowledge.</p>
 
 ###
 
