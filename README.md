@@ -1,14 +1,14 @@
 <h1>👨‍💻 Pedro Novais</h1>
-<h3>Desenvolvedor de Software</h3>
+<h3>Software Developer</h3>
 
 ---
 
-Me chamo **Pedro Novais**, sou desenvolvedor de software com foco em criar soluções eficientes e elegantes.  
-Sou movido por desafios e apaixonado por tecnologia — estou sempre buscando evoluir, aprender novas ferramentas e melhorar como desenvolvedor.
+My name is **Pedro Novais**, and I am a software developer focused on building efficient and elegant solutions.  
+I am driven by challenges and passionate about technology — always seeking to evolve, learn new tools, and improve as a developer.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,12 +25,12 @@ Sou movido por desafios e apaixonado por tecnologia — estou sempre buscando ev
 
 ---
 
-### 📲 Onde me encontrar
+### 📲 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroonovais/)
 [![Instagram](https://img.shields.io/badge/-@pedroonovais-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/opedro.novais/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
 
 ---
 
-> “Grandes softwares começam com pequenos commits.” 🚀
+> “Great software starts with small commits.” 🚀
